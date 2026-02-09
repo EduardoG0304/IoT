@@ -1,0 +1,17 @@
+OFICIO: INVITACIÓN A REUNIÓN
+
+A: [NOMBRE] [APELLIDO1] [APELLIDO2]
+CARGO: [CARGO]
+EMPRESA: [EMPRESA]
+DIRECCIÓN: [CALLE] [NUMEROEXT] [NUMEROINT], [COLONIA], [MUNICIPIO], [ESTADO] [CODIGOPOSTAL]
+
+Por medio del presente, me dirijo a usted para invitarlo cordialmente a la reunión de trabajo que se llevará a cabo el próximo viernes en nuestras instalaciones.
+
+Agradecemos de antemano su valiosa participación.
+
+Para cualquier aclaración, puede contactarnos al teléfono: [TELEFONO] o al correo: [CORREOELECTRONICO]
+
+Atentamente,
+El Comité Organizador
+
+Fecha: [FECHA_ACTUAL]

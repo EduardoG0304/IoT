@@ -1,0 +1,6 @@
+Juan|Pérez|García|Gerente|Tech Solutions|Av. Principal|123||Centro|Guadalajara|Jalisco|12345|555-1234|juan@tech.com|15-05-1980
+María|López|Hernández|Desarrolladora|Innovation Corp|Calle Secundaria|456|A|Norte|Guadalajara|Jalisco|54321|555-5678|maria@innovation.com|20-08-1990
+Carlos|Gómez|Martínez|Analista|Data Dynamics|Boulevard Central|789|Of. 3|Sur|Guadalajara|Jalisco|67890|555-9012|carlos@data.com|10-11-1995
+Jonathan|Ramirez|Hernandez|Estudiante|Ceti|Av. Pritria|123||Centro|Guadalajara|Jalisco|12345|555-4534|jona@ceti.mx|20-12-2004
+David|López|Torrez|DEV|Intel|Periferico|456|A|Norte|Guadalajara|Jalisco|54321|555-4356|david@intel.com|20-02-2002
+Rene|Garcia |gARCIA|eSTU|Ceti|na|1234||18|GDL|Jal|44097|2345566|rene@gami.com|03-03.2004
